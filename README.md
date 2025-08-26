@@ -20,11 +20,15 @@ Install dependencies using:
 pip install -r requirements.txt
 requirements.txt
 
-### Libraries: 
-pandas,
-numpy,
-scikit-learn,
-matplotlib,
+## Libraries: 
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
 seaborn
 
 # Usage
@@ -48,11 +52,15 @@ Show a feature importance plot
 Metrics:
 
 Mean Squared Error: 123.45
+
 R2 Score: 0.89
+
 Predictions (first 5 rows):
 
    SQUARE_FT  LONGITUDE  LATITUDE  ...  PREDICTED_PRICE_IN_LACS
+   
 0       ...        ...       ...   ...          85.23
+
 1       ...        ...       ...   ...          92.10
 
 
