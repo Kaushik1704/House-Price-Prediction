@@ -21,10 +21,10 @@ pip install -r requirements.txt
 requirements.txt
 
 ### Libraries: 
-pandas
-numpy
-scikit-learn
-matplotlib
+pandas,
+numpy,
+scikit-learn,
+matplotlib,
 seaborn
 
 # Usage
